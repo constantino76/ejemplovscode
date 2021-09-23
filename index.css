@@ -1,9 +1,7 @@
-#Nombre{
+.class-id{
 
-text-align:center ;
-border-color: blue;
-border-width: 2px;
+
 font-size: 14px;
-font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-
+border-width: 4px;
+border-color:red ;
 }
