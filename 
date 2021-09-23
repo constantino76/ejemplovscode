@@ -1,0 +1,17 @@
+[33mcommit 5165e66e7c9079816b9d9455943cd0c3d5f4487e[m[33m ([m[1;36mHEAD -> [m[1;32mrama03[m[33m, [m[1;32mrama02[m[33m, [m[1;32mmain[m[33m)[m
+Author: ronald878 <ronald.retana@uned.cr>
+Date:   Thu Sep 23 13:17:46 2021 -0600
+
+    se agrego campo edad
+
+[33mcommit 53837f9c94ca5667eaa1e6e8ebc828960062de37[m
+Author: ronald878 <ronald.retana@uned.cr>
+Date:   Thu Sep 23 06:20:22 2021 -0600
+
+     se agrego  un campo para el numero telefonico
+
+[33mcommit efe7786d6cf28b6cc6bcb8aba40fa1c834d7bf07[m
+Author: ronald878 <ronald.retana@uned.cr>
+Date:   Thu Sep 23 06:00:42 2021 -0600
+
+    agregando campos y etiquetas id y nombre
